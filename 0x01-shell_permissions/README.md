@@ -17,3 +17,6 @@
 8-James_Bond - A script that sets the permission of the file hello to no permission to the user, no permission to the group and no permission to allthe other users.
 
 9-John_Doe - A script that sets the mode of the file hello have the permission to read,write and execute by the user, read and execute by the group and write and execute by other users.
+
+10-mirror_permissions - A script that sets the mode of the file 'hello' same as 'olleh's' mode which is read and write for the owner,read and write for the group and read for other users.
+
