@@ -12,4 +12,4 @@
 
 6-third_line - A script that displays the third line of the file 'iacta'.
 
-7-file - A script that creates 
+7-file - A script that creates a file name named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
